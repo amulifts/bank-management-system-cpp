@@ -22,4 +22,4 @@ A simple implementation of Bank management System in C++ programming lanaguage c
 
 ## Team
 
-<a href = "https://github.Qcom/ashishlamsal"><img src = "https://avatars.githubusercontent.com/u/49828737?v=4" width="144"></a>
+<a href = "https://github.com/amulifts"><img src = "https://avatars.githubusercontent.com/u/49828737?v=4" width="144"></a>
